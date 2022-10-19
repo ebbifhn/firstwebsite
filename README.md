@@ -1,2 +1,2 @@
 # firstwebsite
-This is Ebbi. Hello internet!
+hello world!
